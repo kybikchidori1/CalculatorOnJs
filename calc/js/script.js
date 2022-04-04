@@ -21,5 +21,5 @@ inputRub.addEventListener('input', () => {
     // status 
     // statsText
     // response
-    // readyState
+    // readyStates
 });
