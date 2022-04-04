@@ -21,5 +21,7 @@ inputRub.addEventListener('input', () => {
     // status 
     // statsText
     // response
-    // readyStates
+    // readyStatesфыв
 });
+
+console.log(test);
